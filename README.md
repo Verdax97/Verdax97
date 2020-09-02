@@ -10,5 +10,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Verdax97&theme=vue&repo=ing-sw-2020-Veronesi-Terzi-Zaffiretti" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verdax97&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verdax97&theme=vue&show_icons=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 [![Verdax97's github stats](https://github-readme-stats.vercel.app/api?username=Verdax97&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
