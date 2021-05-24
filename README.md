@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 🦀 I’m currently learning rust
+- 🦀 I’m currently learning rust, ROS amd C++
 - 🦦 Fun facts: Otters like to stick together, so when they sleep they will wrap themselves in seaweed and float together in a group. A group of resting otters is called a raft.
 
 <a href="https://github.com/Verdax97/Pongherillo">
